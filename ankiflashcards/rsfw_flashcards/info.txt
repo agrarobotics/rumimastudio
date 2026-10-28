@@ -1,1 +1,5 @@
 
+r = router
+s = switch
+f = firewall
+w = wireless
